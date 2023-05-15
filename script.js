@@ -1,7 +1,5 @@
-
 let a = prompt('what is the length of the array?');
 const d = [];
-
 for (let i = 0; i < a; i++) {
 		d[i] = prompt(`${i+1}`);
 }
